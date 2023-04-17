@@ -12,6 +12,10 @@
         <entry key="app/src/main/res/layout/activity_menu.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/layout/activity_result.xml" value="0.37604166666666666" />
         <entry key="app/src/main/res/layout/activity_result_imcactivity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_todo.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/dialog_task.xml" value="0.221875" />
+        <entry key="app/src/main/res/layout/item_task_category.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/item_todo_task.xml" value="0.22291666666666668" />
       </map>
     </option>
   </component>
